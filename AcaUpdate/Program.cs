@@ -74,8 +74,7 @@ namespace AcaUpdate
             birthdayupdata("2017");//更新单位和生日
            
              //writedepartment("Y:\\linktest\\data200500.xlsx");
-            //writedepartment("Y:\\linktest\\data501700.xlsx");
-            int i = 1;
+            //writedepartment("Y:\\linktest\\data501700.xlsx");            
 
         }
         private static void connectDatabase()
