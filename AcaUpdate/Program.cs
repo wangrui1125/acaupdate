@@ -188,7 +188,7 @@ namespace AcaUpdate
         private static List<Academincian> searcheraca2(HashSet<string> acaold)
         {
             /**
-            * 搜索中国工程院院士
+            * 搜索中国工程院
             */
             List<Academincian> acas = new List<Academincian>(); 
             HttpWebRequest request;
