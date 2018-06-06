@@ -212,8 +212,7 @@ namespace AcaUpdate
                     sLine = objReader.ReadLine();
 
                     if (sLine != null)
-                    {
-                       
+                    {                       
                         m_Html += sLine;
                     }
                 }
@@ -344,7 +343,7 @@ namespace AcaUpdate
         private static String[] searcherdetail2(String url)
         {
             /**
-           * 搜索中国工程院院士详细
+           * 搜索中国工程院
            */
             String[] result = new String[3];
 		    HttpWebRequest request;
