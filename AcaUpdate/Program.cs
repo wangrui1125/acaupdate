@@ -343,7 +343,7 @@ namespace AcaUpdate
         private static String[] searcherdetail2(String url)
         {
             /**
-           * 搜索中国工程院
+           * 搜索中国工
            */
             String[] result = new String[3];
 		    HttpWebRequest request;
